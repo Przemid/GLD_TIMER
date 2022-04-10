@@ -28,10 +28,10 @@
   color: #61dafb;
 }
 
-body {
+/* body {
   background-image: url("../src/img/logo_tlo.jpg");
   background-size: cover;
-}
+} */
 
 @keyframes App-logo-spin {
   from {
